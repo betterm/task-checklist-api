@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  complete: false
+  priority: 1
+  deadline: 2015-12-31 07:34:12
+  project_id: 
+
+two:
+  name: MyString
+  complete: false
+  priority: 1
+  deadline: 2015-12-31 07:34:12
+  project_id: 
