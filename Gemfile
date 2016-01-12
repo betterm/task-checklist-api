@@ -8,7 +8,9 @@ gem 'rails-api'
 gem 'spring', :group => :development
 
 gem 'active_model_serializers'
-gem 'sqlite3'
+gem 'pg'
+gem 'unicorn'
+gem 'rack-timeout'
 gem 'rack-cors', :require => 'rack/cors'
 
 
